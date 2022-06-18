@@ -1,0 +1,54 @@
+.productListContainer {
+    margin: auto;
+    margin-top: 10vh;
+  width: 75%;
+  box-sizing: border-box;
+  background-color: rgb(255, 255, 255);
+  border-left: 1px solid rgba(0, 0, 0, 0.158);
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+
+#productListHeading {
+  font: 400 2rem "Roboto";
+  box-sizing: border-box;
+  color: rgba(0, 0, 0, 0.637);
+  transition: all 0.5s;
+  text-align: center;
+}
+
+.productListTable {
+  background-color: rgb(188, 178, 178);
+  border: none !important;
+}
+
+.productListTable div {
+  font: 300 1vmax "Roboto";
+  color: rgb(0, 0, 0);
+  
+}
+
+.productListTable a,
+.productListTable button {
+  color: rgb(0, 0, 0);
+  transition: all 0.5s;
+}
+
+.productListTable a:hover {
+  color: rgb(85, 161, 243);
+}
+
+.productListTable button:hover {
+  color: rgb(255, 0, 0);
+}
+
+.MuiDataGrid-columnHeader div {
+  color: rgb(255, 255, 255);
+}
+
+@media screen and (max-width: 1200px) {
+  .productListTable div {
+    font: 300 2vw "Roboto";
+  }
+}
