@@ -29,7 +29,7 @@ const ProductDetails = () => {
   const dispatch = useDispatch();
   const alert = useAlert();
   const { product, loading, error } = useSelector(
-    (state) => state.productDetails
+    (state) => state.productDetails // from store reducer
   );
   const { success, error: reviewError } = useSelector(
     (state) => state.newReview
