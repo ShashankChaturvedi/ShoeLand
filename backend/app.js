@@ -9,7 +9,7 @@ const path=require("path");
 
 //config
 if (process.env.NODE_ENV !== "PRODUCTION") {
-    require("dotenv").config({ path: "backend/config/config.env" });
+    require("dotenv").config({ path: "config/config.env" });
 }
 
 
