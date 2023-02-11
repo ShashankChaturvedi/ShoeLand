@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/%7BShoeLand%7D/static/css/main.b4ac8026.chunk.css",
+    "main.js": "/%7BShoeLand%7D/static/js/main.c899f887.chunk.js",
+    "main.js.map": "/%7BShoeLand%7D/static/js/main.c899f887.chunk.js.map",
+    "runtime-main.js": "/%7BShoeLand%7D/static/js/runtime-main.175ad4f3.js",
+    "runtime-main.js.map": "/%7BShoeLand%7D/static/js/runtime-main.175ad4f3.js.map",
+    "static/js/2.f1640443.chunk.js": "/%7BShoeLand%7D/static/js/2.f1640443.chunk.js",
+    "static/js/2.f1640443.chunk.js.map": "/%7BShoeLand%7D/static/js/2.f1640443.chunk.js.map",
+    "index.html": "/%7BShoeLand%7D/index.html",
+    "static/css/main.b4ac8026.chunk.css.map": "/%7BShoeLand%7D/static/css/main.b4ac8026.chunk.css.map",
+    "static/js/2.f1640443.chunk.js.LICENSE.txt": "/%7BShoeLand%7D/static/js/2.f1640443.chunk.js.LICENSE.txt",
+    "static/media/Home.css": "/%7BShoeLand%7D/static/media/3734.1d2ac7b4.jpg",
+    "static/media/App.css": "/%7BShoeLand%7D/static/media/Apocalypse Cursor.e0db972b.png",
+    "static/media/Profile.697fdcd2.png": "/%7BShoeLand%7D/static/media/Profile.697fdcd2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.175ad4f3.js",
+    "static/js/2.f1640443.chunk.js",
+    "static/css/main.b4ac8026.chunk.css",
+    "static/js/main.c899f887.chunk.js"
+  ]
+}
