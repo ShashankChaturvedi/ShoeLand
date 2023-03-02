@@ -1,5 +1,5 @@
 .banner {
-    background-image: url("../../images/3734.jpg");
+    background-image: url(`/frontend/src/images/3734.jpg`);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
