@@ -3,7 +3,7 @@ A MERN stack website
 
 
 
-#This is the Homepage of the site
+# This is the Homepage of the site
 ![image](https://user-images.githubusercontent.com/56739878/232812719-7ad72c3f-26e5-42bf-b6f9-0162320b88e4.png)
 
 #This is the products page
